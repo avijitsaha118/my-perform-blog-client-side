@@ -13,7 +13,7 @@ const Footer = () => {
                     href="#"
                     className="cursor-pointer font-semibold text-indigo-800 hover:text-black"
                 >
-                    Streamline
+                    Avijit
                 </a>
             </h1>
         </div>
